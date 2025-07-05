@@ -12,3 +12,17 @@
 ## 📌 О проекте
 
 Асинхронный Proxy Checker позволяет проверять работоспособность http/https прокси.
+
+## 🔧 Установка
+
+```bash
+# Клонирование репозитория
+git clone https://github.com/Ladvix/proxy-checker.git
+cd proxy-checker
+
+# Установка зависимостей
+pip install -r requirements.txt
+
+# Запуск Proxy Checker
+python main.py
+```
