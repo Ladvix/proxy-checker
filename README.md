@@ -5,6 +5,7 @@
 <p>
   <img src="https://img.shields.io/badge/Python-3.7+-blue.svg" alt="Python Version">
   <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License">
+  <img alt="Mozilla HTTP Observatory Grade" src="https://img.shields.io/mozilla-observatory/:format/:host">
 </p>
 
 </div>
